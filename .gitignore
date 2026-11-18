@@ -3,3 +3,4 @@ data/raw/
 .DS_Store
 .vscode/
 __pycache__/
+data/processed/expression.parquet
