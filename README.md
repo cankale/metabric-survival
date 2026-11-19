@@ -33,7 +33,7 @@ This project compares two survival models on the public METABRIC cohort of breas
 | Without zero follow-up time | 1,979 |
 | With gene expression (models) | 1,978 |
 
-- **Outcome:** breast cancer–specific survival. The event is death from breast cancer (646 patients). Patients who were alive at their last follow-up (837) or died of other causes (497) are censored.
+- **Outcome:** breast cancer–specific survival. Of the 1,979 patients, 646 died of breast cancer (the event). Patients who were alive at their last follow-up (836) or died of other causes (497) are censored.
 - **Gene expression:** 20,603 gene rows. 218 duplicate gene names (several probes for the same gene) were averaged, and 11 genes with missing values were removed, leaving 20,374 genes.
 
 ## Censoring
